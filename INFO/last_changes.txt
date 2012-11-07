@@ -1,0 +1,5 @@
+
+31.10.2012 : 12 Uhr
+
+Chris : wenn kein Taste gedrückt -> Rackete geht jetzt weiter in die 
+Richtung von die letzte gedrückte Tastatur
